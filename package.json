@@ -6,10 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dunson-orange@github.com/dunson-orange/planets-project.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dunson-orange/planets-project/issues"
+  },
+  "homepage": "https://github.com/dunson-orange/planets-project#readme",
   "dependencies": {
-    "csv-parse": "^4.15.1"
+    "csv-parse": "^5.3.1"
   }
 }
